@@ -1,0 +1,1578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"text",
+				"text-white"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"mb-",
+				"mb-4"
+			],
+			[
+				"post-th",
+				"post-thumb-2"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"inli",
+				"inline\tdisplay"
+			],
+			[
+				"swip",
+				"swiper"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"pad",
+				"padding-large"
+			],
+			[
+				"al",
+				"align-items-center"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"b",
+				"block\tdisplay"
+			],
+			[
+				"fil",
+				"fill\tproperty"
+			],
+			[
+				"s",
+				"scale()\ttransform"
+			],
+			[
+				"padd",
+				"padding-medium"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ini",
+				"intiSwiper"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"align",
+				"align-right"
+			],
+			[
+				"col-md-",
+				"col-md-2"
+			],
+			[
+				"post",
+				"postID"
+			],
+			[
+				"ter",
+				"term_id"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"flex",
+				"flex-basis\tproperty"
+			],
+			[
+				"lig",
+				"light-color"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"esc",
+				"esc_html"
+			],
+			[
+				"price",
+				"price_inc"
+			],
+			[
+				"fi",
+				"fixed_date"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"over",
+				"overlayMenu"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"sc",
+				"scrollToTop"
+			],
+			[
+				"sec",
+				"secondary-color"
+			],
+			[
+				"dar",
+				"dark-color"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"ease",
+				"ease-out"
+			],
+			[
+				"backg",
+				"background-size\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"dark",
+				"dark-grey-color"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"f",
+				"font-family\tproperty"
+			],
+			[
+				"tra",
+				"translate3d()\ttransform"
+			],
+			[
+				"tras",
+				"transform\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"text-",
+				"text-center"
+			],
+			[
+				"meta",
+				"meta_info"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"Succ",
+				"successfully"
+			],
+			[
+				"des",
+				"dest_path"
+			],
+			[
+				"ajax",
+				"ajax_nonce"
+			],
+			[
+				"_",
+				"_REQUEST"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"bg",
+				"bg-black"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"str",
+				"strpos"
+			],
+			[
+				"post_t",
+				"post_type"
+			],
+			[
+				"ap",
+				"api_key"
+			],
+			[
+				"galler",
+				"gallery-thumbnail"
+			],
+			[
+				"show",
+				"show_dates"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"Sc",
+				"ScrollSpy"
+			],
+			[
+				"rg",
+				"rgba()\tcolor"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"col",
+				"col-md-8"
+			],
+			[
+				"get_the_",
+				"get_the_title"
+			],
+			[
+				"trek",
+				"trektrack_extra_info"
+			],
+			[
+				"fun",
+				"function_exists"
+			],
+			[
+				"round",
+				"rounded"
+			],
+			[
+				"trektrack-",
+				"trektrack-featured-image"
+			],
+			[
+				"itinera",
+				"itinerary_count"
+			],
+			[
+				"itiner",
+				"itinerary_list"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"ar",
+				"array_names"
+			],
+			[
+				"arr",
+				"array_names"
+			],
+			[
+				"butt",
+				"button_style"
+			],
+			[
+				"get_image",
+				"wp_get_attachment_image_src"
+			],
+			[
+				"accor",
+				"accordion"
+			],
+			[
+				"col-md",
+				"col-md-12"
+			],
+			[
+				"header",
+				"header_light"
+			],
+			[
+				"logo",
+				"logo-dark"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"get_templ",
+				"get_template_directory_uri"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"get_temp",
+				"get_template_directory_uri"
+			],
+			[
+				"get_the",
+				"get_the_title"
+			],
+			[
+				"num",
+				"num_items"
+			],
+			[
+				"col-",
+				"col-md-12"
+			],
+			[
+				"get_term",
+				"get_term_link"
+			],
+			[
+				"init",
+				"initSliders"
+			],
+			[
+				"scree",
+				"screenshots"
+			],
+			[
+				"acc",
+				"accent-color"
+			],
+			[
+				"dio",
+				"download_id"
+			],
+			[
+				"page",
+				"pages"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"outlin",
+				"outline_itineraries"
+			],
+			[
+				"itin",
+				"itinerary_detail"
+			],
+			[
+				"repla",
+				"preg_replace"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"tab",
+				"table-cell\tdisplay"
+			],
+			[
+				"int",
+				"initJarallax"
+			],
+			[
+				"light-c",
+				"light-text-color"
+			],
+			[
+				"ligh",
+				"light-text-color"
+			],
+			[
+				"html",
+				"html_version"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"wd",
+				"width\tproperty"
+			],
+			[
+				"down",
+				"download_category"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"downlo",
+				"download_id"
+			],
+			[
+				"bod",
+				"body-text-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 192.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/TEMPLATES JUNGLE/HTML Templates/Fashion Blogger - Html Template for Fashion Bloggers/fashion-blogger-html-template-for-fashion-bloggers",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Fashion Blogger - Html Template for Fashion Bloggers/fashion-blogger-html-template-for-fashion-bloggers/css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Fashion Blogger - Html Template for Fashion Bloggers/fashion-blogger-html-template-for-fashion-bloggers/images"
+	],
+	"file_history":
+	[
+		"/E/TEMPLATES JUNGLE/HTML Templates/Fashion Blogger - Html Template for Fashion Bloggers/fashion-blogger-html-template-for-fashion-bloggers/css/main.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Fashion Blogger - Html Template for Fashion Bloggers/fashion-blogger-html-template-for-fashion-bloggers/index.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Fashion Blogger - Html Template for Fashion Bloggers/fashion-blogger-html-template-for-fashion-bloggers/contact.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Fashion Blogger - Html Template for Fashion Bloggers/fashion-blogger-html-template-for-fashion-bloggers/about.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Fashion Blogger - Html Template for Fashion Bloggers/fashion-blogger-html-template-for-fashion-bloggers/blog.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Fashion Blogger - Html Template for Fashion Bloggers/fashion-blogger-html-template-for-fashion-bloggers/single-post.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Fashion Blogger - Html Template for Fashion Bloggers/fashion-blogger-html-template-for-fashion-bloggers/styles.html",
+		"/C/Users/hp/Downloads/filter-outline.svg",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Fashion Blogger - Html Template for Fashion Bloggers/fashion-blogger-html-template-for-fashion-bloggers/css/vendor.css",
+		"/C/Users/hp/Downloads/Arsha/Arsha/index.html",
+		"/C/Users/hp/Downloads/Arsha/Arsha/assets/css/style.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Fashion Blogger - Html Template for Fashion Bloggers/fashion-blogger-html-template-for-fashion-bloggers/js/script.js",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Chris - Free Creative Portfolio HTML CSS Template/chris-creative-portfolio-html-template/js/plugins.js",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Portfo - Free HTML CSS Portfolio Template/portfo-portfolio-website-free-figma-template/js/script.js",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Fashion Blogger - Html Template for Fashion Bloggers/fashion-blogger-html-template-for-fashion-bloggers/js/plugins.js",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Chris - Free Creative Portfolio HTML CSS Template/chris-creative-portfolio-html-template/css/vendor.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Chris - Free Creative Portfolio HTML CSS Template/chris-creative-portfolio-html-template/styles.html",
+		"/C/Users/hp/Desktop/builder/test.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Fashion Blogger - Html Template for Fashion Bloggers/fashion-blogger-html-template-for-fashion-bloggers/css/bootstrap.css",
+		"/C/wamp64/www/portfo/index.html",
+		"/C/wamp64/www/foodmart/js/plugins.js",
+		"/C/wamp64/www/portfo/js/plugins.js",
+		"/C/wamp64/www/portfo/style.css",
+		"/C/wamp64/www/foodmart/index.html",
+		"/C/wamp64/www/portfo/css/vendor.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Booksaw - Book Store Html Template/booksaw-book-store-html-template/css/vendor.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Dance - free HTML Website Template for Dance Studios/dance-html-template/css/vendor.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Portfo - Free HTML CSS Portfolio Template/portfo-portfolio-website-free-figma-template/index.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Portfo - Free HTML CSS Portfolio Template/portfo-portfolio-website-free-figma-template/js/plugins.js",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Portfo - Free HTML CSS Portfolio Template/portfo-portfolio-website-free-figma-template/style.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Swanky eCommerce HTML CSS Template/swanky-fashion-store/index.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Swanky eCommerce HTML CSS Template/swanky-fashion-store/css/swiper-bundle.min.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Archi - Architect Portfolio Html Template/archi-architect-portfolio-html-template/style.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Swanky eCommerce HTML CSS Template/swanky-fashion-store/js/script.js",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Portfo - Free HTML CSS Portfolio Template/portfo-portfolio-website-free-figma-template/css/vendor.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Swanky eCommerce HTML CSS Template/swanky-fashion-store/js/plugins.js",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Portfo - Free HTML CSS Portfolio Template/portfo-portfolio-website-free-figma-template/single-post.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Portfo - Free HTML CSS Portfolio Template/portfo-portfolio-website-free-figma-template/styles.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Portfo - Free HTML CSS Portfolio Template/portfo-portfolio-website-free-figma-template/blog.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Portfo - Free HTML CSS Portfolio Template/portfo-portfolio-website-free-figma-template/contact.html",
+		"/E/THEMEFOREST PROJECTS/Kaira - Fashion Store Figma Template/description.html",
+		"/C/wamp64/www/foodmart/styles.html",
+		"/C/wamp64/www/foodmart/style.css",
+		"/C/wamp64/www/foodmart/js/script.js",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Foodmart - Free eCommerce HTML Template/foodmart-html-template/style.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Foodmart - Free eCommerce HTML Template/foodmart-html-template/index.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Foodmart - Free eCommerce HTML Template/foodmart-html-template/js/script.js",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Archi - Architect Portfolio Html Template/archi-architect-portfolio-html-template/js/script.js",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Foodmart - Free eCommerce HTML Template/foodmart-html-template/js/plugins.js",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Foodmart - Free eCommerce HTML Template/foodmart-html-template/styles.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Archi - Architect Portfolio Html Template/archi-architect-portfolio-html-template/onepage.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Foodmart - Free eCommerce HTML Template/foodmart-html-template/css/vendor.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Foodmart - Free eCommerce HTML Template/foodmart-html-template/css/normalize.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Foodmart - Free eCommerce HTML Template/foodmart-html-template/images/gift.svg",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Ultras - Free Casual Wear Ecommerce Store HTML Website Template/ultras-html-template/style.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Ultras - Free Casual Wear Ecommerce Store HTML Website Template/ultras-html-template/styles.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Ultras - Free Casual Wear Ecommerce Store HTML Website Template/ultras-html-template/single-product.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Ultras - Free Casual Wear Ecommerce Store HTML Website Template/ultras-html-template/css/normalize.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Ultras - Free Casual Wear Ecommerce Store HTML Website Template/ultras-html-template/js/plugins.js",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Ultras - Free Casual Wear Ecommerce Store HTML Website Template/ultras-html-template/css/vendor.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Archi - Architect Portfolio Html Template/archi-architect-portfolio-html-template/index.html",
+		"/E/MOKSHA/SydneyMet/preview/home-3.html",
+		"/E/MOKSHA/SydneyMet/preview/home.html",
+		"/E/MOKSHA/SydneyMet/preview/index.html",
+		"/E/MOKSHA/SydneyMet/preview/home-2.html",
+		"/E/MOKSHA/SydneyMet/preview/whoweare.html",
+		"/E/MOKSHA/SydneyMet/preview/contact.html",
+		"/E/MOKSHA/SydneyMet/preview/howtoapply.html",
+		"/E/MOKSHA/SydneyMet/preview/news.html",
+		"/E/MOKSHA/SydneyMet/preview/news-detail.html",
+		"/E/MOKSHA/SydneyMet/preview/megamenu.html",
+		"/E/MOKSHA/SydneyMet/preview/megamenu-2.html",
+		"/E/MOKSHA/SydneyMet/preview/home-4.html",
+		"/E/MOKSHA/SydneyMet/preview/course-detail.html",
+		"/E/MOKSHA/SydneyMet/preview/course.html",
+		"/E/MOKSHA/SydneyMet/preview/course-detail-2.html",
+		"/E/MOKSHA/SydneyMet/preview/welcome.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/NextGen - Free NFT HTML Template/nextgen-nft-html-template/js/script.js",
+		"/E/TEMPLATES JUNGLE/HTML Templates/NextGen - Free NFT HTML Template/nextgen-nft-html-template/css/vendor.css",
+		"/E/TEMPLATES JUNGLE/HTML Templates/NextGen - Free NFT HTML Template/nextgen-nft-html-template/index.html",
+		"/E/TEMPLATES JUNGLE/HTML Templates/NextGen - Free NFT HTML Template/nextgen-nft-html-template/style.css",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/sidebar.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/sidebar-footer.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/footer.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/templates/template-download.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/functions.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/single.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/style.css",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/js/script.js",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/js/submit-ajax.js",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/search.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/searchform.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/templates/template-user-registration.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/category.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/tag.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/home.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/inc/shortcodes.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/content.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/header.php",
+		"/C/wamp64/www/uijunkie/wp-content/themes/uijunkie/inc/widgets.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/fashionblog/templates/index.html",
+		"/C/wamp64/www/wordpress/wp-content/themes/fashionblog/theme.json",
+		"/C/wamp64/www/wordpress/wp-content/themes/kelsey/theme.json",
+		"/C/wamp64/www/wordpress/wp-content/themes/kelsey/templates/front-page.html",
+		"/C/wamp64/www/wordpress/wp-content/themes/kelsey/inc/admin/admin.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/kelsey/inc/patterns/hero-content.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/fashionblog/style.css",
+		"/C/wamp64/www/wp/wp-content/themes/fashionblog/functions.php",
+		"/C/wamp64/www/wp/wp-content/themes/fashionblog/index.php",
+		"/C/wamp64/www/wp/wp-content/themes/fashionblog/readme.txt",
+		"/C/wamp64/www/wp/wp-content/themes/fashionblog/style.css",
+		"/C/wamp64/www/wp/wp-content/themes/fashionblog/theme.json",
+		"/C/wamp64/www/wp/wp-content/themes/fashionblog/parts/page-title.php",
+		"/C/wamp64/www/wp/wp-content/themes/fashionblog/parts/header.html",
+		"/C/wamp64/www/wp/wp-content/themes/fashionblog/parts/footer.html",
+		"/C/wamp64/www/wp/wp-content/themes/fashionblog/templates/404.html",
+		"/C/wamp64/www/wp/wp-content/themes/fashionblog/templates/archive.html",
+		"/C/wamp64/www/wp/wp-content/themes/fashionblog/templates/index.html",
+		"/C/wamp64/www/wp/wp-content/themes/fashionblog/templates/singular.html",
+		"/C/wamp64/www/explore/wp-content/themes/exploredolpo/front-page.php",
+		"/C/wamp64/www/explore/wp-content/themes/exploredolpo/single-package.php",
+		"/C/wamp64/www/explore/wp-content/themes/exploredolpo/assets/dist/assets/css/app.css",
+		"/C/wamp64/www/explore/wp-content/themes/exploredolpo/footer.php",
+		"/C/wamp64/www/explore/wp-content/themes/exploredolpo/templates/template-fixed-departures.php",
+		"/C/wamp64/www/trekking/wp-content/themes/everestbodhi/functions.php",
+		"/C/wamp64/www/explore/wp-content/themes/exploredolpo/sidebar.php",
+		"/C/wamp64/www/explore/wp-content/themes/exploredolpo/functions.php",
+		"/E/TEMPLATES JUNGLE/HTML Templates/Vibez - Free HTML Template for Musical Group Band/vibez-website-template/index.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+			"",
+			"E:\\wamp64\\www\\wp\\wp-content\\themes\\flatto",
+			"",
+			"E:\\wamp64\\www",
+			"",
+			"E:\\TEMPLATES JUNGLE\\HTML Templates\\Vibez - Free HTML Template for Musical Group Band\\vibez-html-template",
+			"",
+			"E:\\wamp64\\www\\pogothemes\\wp-content\\themes\\freebies",
+			"E:\\TEMPLATES JUNGLE\\HTML Templates\\Archi - Architect Portfolio Html Template\\archi-architect-portfolio-html-template",
+			"E:\\TEMPLATES JUNGLE\\HTML Templates",
+			"",
+			"E:\\wamp64\\www\\wp\\wp-content\\themes\\ultras",
+			"E:\\wamp64\\www\\wp\\wp-content\\themes\\fashionmag",
+			"E:\\wamp64\\www\\pogothemes\\wp-content\\themes\\freebies",
+			"",
+			"© 2021 Bakery HTML Template by <a href=\"https://templatesjungle.com/\" target=\"_blank\">Templates Jungle</a>",
+			"E:\\wamp64\\www\\pogothemes\\wp-content\\themes\\freebies",
+			"",
+			"E:\\wamp64\\www\\smiletrek\\wp-content\\themes\\smiletrek",
+			"E:\\wamp64\\www\\pogothemes\\wp-content\\themes\\freebies",
+			"E:\\wamp64\\www\\trekking\\wp-content\\themes\\heaven-himalaya",
+			"",
+			"E:\\wamp64\\www\\wp\\wp-content\\themes\\flatto",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<div class=\"d-flex w-100 gap-2\">",
+			"24",
+			"Bootstrap",
+			"bootstrap",
+			"Check",
+			"check",
+			"<footer id=\"footer\" class=\"pt-5 pb-5\">\n\t<div class=\"container\">\n\t\t<div class=\"footer-content\">\n\t\t\t<div class=\"row\">\n\t\t\t\t<div class=\"footer-menu social-media col-md-2 col-sm-6 mb-5\">\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li><a href=\"#\">facebook</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">twitter</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">instagram</a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\n\t\t\t\t<div class=\"footer-menu col-md-2 col-sm-6 mb-5\">\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li><a href=\"#\">About Us</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">Blog</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">Policy</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">Term</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">Contact</a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\n\t\t\t\t<div class=\"footer-menu col-md-2 col-sm-6 mb-5\">\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li><a href=\"#\">About Us</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">Blog</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">Policy</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">Term</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">Contact</a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\n\t\t\t\t<div class=\"footer-menu col-md-2 col-sm-6 mb-5\">\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li><a href=\"#\">About Us</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">Blog</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">Policy</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">Term</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">Contact</a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\n\t\t\t\t<div class=\"footer-menu col-md-4 col-sm-12 align-right\">\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li><a href=\"#\">hello@templatesjungle.com</a></li>\n\t\t\t\t\t\t<li>15Th Street Avenue, New York, USA</li>\n\t\t\t\t\t\t<li>011 554-8798-6556</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\n\t\t\t</div><!--footer-content-->\n\n\t\t\t<div class=\"row\">\n\t\t\t\t<div class=\"col-md-6\">\n\t\t\t\t\t© 2023 TemplatesJungle.\n\t\t\t\t</div>\n\t\t\t\t<div class=\"col-md-6 align-right\">\n\t\t\t\t\tFree HTML template by <a href=\"https://templatesjungle.com/\" target=\"_blank\">TemplatesJungle</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</footer>",
+			"col-2",
+			".section-title h2",
+			"nav-item",
+			"link-dark",
+			"<i class=\"icon icon-mail-reply\"></i>",
+			"padding-large",
+			"<title>FODA - Fashion Blogger HTML CSS Template</title>",
+			"margin-lg-btm",
+			"padding-large",
+			"<div class=\"col-md-6\">",
+			"col-md-6",
+			"\n<script src=\"js/jquery-1.11.0.min.js\"></script>\n<script src=\"js/plugins.js\"></script>\n<script src=\"js/script.js\"></script>\n\n</body>\n</html>",
+			"<!DOCTYPE html>\n<html>\n<head>\n\t<title>FODA - Fashion Blogger HTML CSS Template</title>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"format-detection\" content=\"telephone=no\">\n    <meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n    <meta name=\"author\" content=\"\">\n    <meta name=\"keywords\" content=\"\">\n    <meta name=\"description\" content=\"\">\n\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/normalize.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/bootstrap.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/vendor.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"fonts/icomoon.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/main.css\">\n\n\t<!-- script\n\t================================================== -->\n\t<script src=\"js/modernizr.js\"></script>\n\n</head>\n<body>",
+			"u-full-width",
+			"single-blog.html",
+			"button",
+			"btn",
+			"input",
+			"form",
+			"u-full-width",
+			"chocolar",
+			"../images/chocolat",
+			"Chocolat",
+			"post-thumb-2",
+			"largemodel6",
+			"btn-read-more",
+			">\n",
+			"<div class=\"meta-date\">Mar 29, 2021</div>\t\t\t",
+			"<div class=\"meta-date\">Mar 30, 2021</div>\t\t\t",
+			"Health And Fitness",
+			"li",
+			".footer-menu ",
+			"a {",
+			"story",
+			"story-item",
+			"<h3 class=\"elementary-title\">Health And Fitness</h3>",
+			"<a href=\"#\">Continue Reading ...</a>",
+			"story-item",
+			"d-flex",
+			".section-title h2",
+			"50px",
+			"swiper",
+			"ml-3",
+			"btn-link",
+			"section-title",
+			"container",
+			"billboard",
+			"Jarallax",
+			"video",
+			"portfolio-carousel",
+			"testimonials-inner text-center\">",
+			"section",
+			"bg-dark",
+			".menu-btn",
+			"portfolio-image",
+			"swiper-button-",
+			"swiper-button",
+			"product",
+			"#portfolio ",
+			"portfolio-item swiper-slide\">",
+			"swiper-button",
+			"Slick Slider",
+			"portfolio-item",
+			"Slick Slider",
+			"postimg",
+			"thumb-3",
+			"thumb-4",
+			"images/portfolio",
+			"SITE STRUCTURE",
+			"<title>Chris - Creative Portfolio HTML Template</title>",
+			"\n",
+			"0",
+			"nft",
+			"NFT",
+			"Book",
+			"booksaw",
+			"form",
+			"product-grid d-flex flex-wrap\">",
+			"<div class=\"product-item\">",
+			".product-grid ",
+			"brand",
+			"category",
+			".nav-tabs",
+			".nav",
+			"<a href=\"#\">Add to Cart <iconify-icon icon=\"uil:shopping-cart\"></a>",
+			"<div class=\"input-group product-qty\">\n                          <span class=\"input-group-btn\">\n                              <button type=\"button\" class=\"quantity-left-minus btn btn-danger btn-number\"  data-type=\"minus\" data-field=\"\">\n                                <iconify-icon icon=\"uil:minus\"></iconify-icon>\n                              </button>\n                          </span>\n                          <input type=\"text\" id=\"quantity\" name=\"quantity\" class=\"form-control input-number\" value=\"10\" min=\"1\" max=\"100\">\n                          <span class=\"input-group-btn\">\n                              <button type=\"button\" class=\"quantity-right-plus btn btn-success btn-number\" data-type=\"plus\" data-field=\"\">\n                                  <iconify-icon icon=\"uil:plus\"></iconify-icon>\n                              </button>\n                          </span>\n                      </div>\n                      <a href=\"#\">Add to Cart <iconify-icon icon=\"uil:shopping-cart\"></a>",
+			"<span class=\"glyphicon glyphicon-minus\"></span>",
+			"qty",
+			"header",
+			"image-link\"><img src=\"images/",
+			"nav-home",
+			"nav-contact",
+			" role=\"tab\" aria-controls=\"nav-all\"",
+			"nav-home",
+			"nav-profile",
+			"nav-home",
+			"spacejoy.jpg",
+			"tabs",
+			"category-slider",
+			"brand-slider",
+			"slider",
+			"thumb-honey.png",
+			"category",
+			"<div",
+			"just",
+			"<h3>Fruits & Veges</h3>",
+			"category-item\">",
+			"searchbar",
+			"body",
+			"item-title",
+			"swiper",
+			"• ",
+			"<title>:: Hotel Theme ::</title>",
+			"#footer .footer-item.item-001 p",
+			".navbar ul.menu-list.responsive",
+			"col-",
+			"wpb_post_views_count",
+			"uijunkie_update_views",
+			"function_name_given",
+			"post-thumbnail",
+			"</a></li>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<div class=\"d-flex input-group\">",
+			"<footer class=\"py-5 text-white bg-black\">\n\t<div class=\"container\">\n\t    <div class=\"row\">\n\t      <div class=\"col-4 col-md-2\">\n\t        <h5>Follow Us</h5>\n\t        <ul class=\"nav flex-column\">\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">Facebook</a></li>\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">Twitter</a></li>\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">Instagram</a></li>\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">Pinterest</a></li>\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">YouTube</a></li>\n\t        </ul>\n\t      </div>\n\n\t      <div class=\"col-4 col-md-2\">\n\t        <h5>Popular</h5>\n\t        <ul class=\"nav flex-column\">\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">Home</a></li>\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">Features</a></li>\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">Pricing</a></li>\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">FAQs</a></li>\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">About</a></li>\n\t        </ul>\n\t      </div>\n\n\t      <div class=\"col-4 col-md-2\">\n\t        <h5>Quick Links</h5>\n\t        <ul class=\"nav flex-column\">\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">Home</a></li>\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">Features</a></li>\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">Pricing</a></li>\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">FAQs</a></li>\n\t          <li class=\"nav-item mb-2\"><a href=\"#\" class=\"nav-link p-0 text-muted\">About</a></li>\n\t        </ul>\n\t      </div>\n\n\t      <div class=\"col-12 col-md-4 offset-md-1\">\n\t        <form>\n\t          <h5>Subscribe to our newsletter</h5>\n\t          <p>Monthly digest of whats new and exciting from us.</p>\n\t          <div class=\"d-flex w-100 gap-2\">\n\t            <label for=\"newsletter1\" class=\"visually-hidden\">Email address</label>\n\t            <input id=\"newsletter1\" type=\"text\" class=\"form-control\" placeholder=\"Email address\">\n\t            <button class=\"btn btn-primary\" type=\"button\">Subscribe</button>\n\t          </div>\n\t        </form>\n\t      </div>\n\t    </div>\n\n\t    <div class=\"d-flex justify-content-between flex-wrap py-4 my-4 border-top\">\n\t      <p>© 2023 TemplatesJungle, Inc. All rights reserved.</p>\n\t      <p>Free HTML template by <a href=\"https://templatesjungle.com/\" class=\"link-primary\" target=\"_blank\">TemplatesJungle</a></p>\n\t    </div>\n\t</div>\n</footer>",
+			"pt-5 pb-5",
+			"<title>FRIDA - Fashion Blogger HTML CSS Template</title>",
+			"\n<script src=\"js/jquery-1.11.0.min.js\"></script>\n<script src=\"plugins/bootstrap-5.1.3/js/bootstrap.bundle.min.js\"></script>\n<script src=\"js/plugins.js\"></script>\n<script src=\"js/script.js\"></script>\n\n</body>\n</html>",
+			"<!DOCTYPE html>\n<html>\n<head>\n\t<title>FODA - Fashion Blogger HTML CSS Template</title>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"format-detection\" content=\"telephone=no\">\n    <meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n    <meta name=\"author\" content=\"\">\n    <meta name=\"keywords\" content=\"\">\n    <meta name=\"description\" content=\"\">\n\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/normalize.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/vendor.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"fonts/icomoon.css\">\n\n    <link href=\"plugins/bootstrap-5.1.3/css/bootstrap.min.css\" rel=\"stylesheet\">\n\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/main.css\">\n\n\t<!-- script\n\t================================================== -->\n\t<script src=\"js/modernizr.js\"></script>\n\n</head>\n<body>",
+			"<title>Portfo - Free Creative Portfolio HTML CSS Bootstrap Template</title>",
+			"<title>:: Sydney Met Initial Concept ::</title>",
+			"<li><a href=\"blog.html\">Blog</a></li>\n<li><a href=\"portfolio.html\">Portfolio</a></li>",
+			"<div class=\"contact-information mt-4 d-flex\">\n\t\t\t\t\n\t\t\t\t<div class=\"contact-detail col-md-6\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"detail mr-6 mb-4\">\n\t\t\t\t\t\t<ul class=\"list-unstyled colored-grey text-large\">\n\t\t\t\t\t\t\t<li>16122 CSW, Victoria 8007 Australia</li>\n\t\t\t\t\t\t\t<li>+1 650-333-0000 / +1 561-334-0580</li>\n\t\t\t\t\t\t\t<li><a href=\"mailto:info@yourcompany.com\" class=\"colored\">info@yourcompany.com</a></li>\n\t\t\t\t\t\t\t<li>© 2021 Christina. All rights reserved.</li>\n\t\t\t\t\t\t\t<li>Designed by : <a href=\"https://www.templatesjungle.com/\">TemplatesJungle</a></li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div><!--detail-->\n\t\t\t\t\t\n\t\t\t\t</div><!--contact-detail-->\n\n\t\t\t\t<div class=\"col-md-6 p-0\">\n\t\t\t\t\t<div class=\"container\">\n\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t<h3>Quick Contact</h2>\n\t\t\t\t\t\t\t<form action=\"contact.php\" class=\"contact-form d-flex flex-wrap mt-4\">\n\t\t\t\t\t\t\t\t<input type=\"text\" name=\"name\" placeholder=\"Name\" class=\"name mb-3\" required>\n\t\t\t\t\t\t\t\t<input type=\"text\" name=\"E-mail/Phone Number\" placeholder=\"E-mail/Phone Number\" class=\"mb-3\" required>\n\t\t\t\t\t\t\t\t<textarea placeholder=\"Message\" style=\"height: 150px;\" required></textarea>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<div class=\"pix_btn btn-click text-center mt-5\">\n\t\t\t\t\t\t\t\t\t<button type=\"submit\" href=\"#\" class=\"btn btn-pill btn-large btn-outline-light mr-3\" data-hover=\"click\"><span>Send Message</span> \n\t\t\t\t\t\t\t\t\t<i class=\"icon icon-paper-plane\"></i></button>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\t<!--col-md-6-->\t\t\n\n\t\t\t</div><!--contact-information-->",
+			"<div class=\"preloader\">\n\t<svg>\n\t  <g>\n\t    <path d=\"M 50,100 A 1,1 0 0 1 50,0\"/>\n\t  </g>\n\t  <g>\n\t    <path d=\"M 50,75 A 1,1 0 0 0 50,-25\"/>\n\t  </g>\n\t  <defs>\n\t    <linearGradient id=\"gradient\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n\t      <stop offset=\"0%\" style=\"stop-color:#FF56A1;stop-opacity:1\" />\n\t      <stop offset=\"100%\" style=\"stop-color:#FF9350;stop-opacity:1\" />\n\t    </linearGradient>\n\t  </defs>\n\t</svg>\n</div>\n\n<div class=\"nav nav-overlay\">",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/normalize.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/vendor.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"fonts/icomoon/icomoon.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">",
+			"<script src=\"js/jquery-1.11.0.min.js\"></script>\n<script type=\"text/javascript\" src=\"js/plugins.js\"></script>\n<script type=\"text/javascript\" src=\"js/script.js\"></script>",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/vendor.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"fonts/icomoon/icomoon.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">",
+			"portfolio.html",
+			"<footer id=\"footer\" class=\"bg-black light padding-xlarge\" style=\"background-image: url(images/photography.jpg);background-position: right;background-repeat: no-repeat;\">\n\t\t\t\n\t\t\t<div class=\"container\">\n\t\t\t\t<div class=\"row\">\n\t\t\t\t\n\t\t\t\t\t<div class=\"contact-information mt-4 d-flex\">\n\t\t\t\t\t\t<div class=\"contact-detail\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div class=\"detail mr-6 mb-4\">\n\t\t\t\t\t\t\t\t<ul class=\"list-unstyled colored-grey text-large\">\n\t\t\t\t\t\t\t\t\t<li>16122 CSW, Victoria 8007 Australia</li>\n\t\t\t\t\t\t\t\t\t<li>+1 650-333-0000 / +1 561-334-0580</li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"mailto:info@yourcompany.com\" class=\"colored\">info@yourcompany.com</a></li>\n\t\t\t\t\t\t\t\t\t<li>© 2021 Christina. All rights reserved.</li>\n\t\t\t\t\t\t\t\t\t<li>Designed by : <a href=\"https://www.templatesjungle.com/\">TemplatesJungle</a></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</div><!--detail-->\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div><!--contact-detail-->\n\n\t\t\t\t\t\t<div class=\"col-md-6 p-0\">\n\t\t\t\t\t\t\t<div class=\"container\">\n\t\t\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t\t\t<div class=\"col-md-12\">\n\t\t\t\t\t\t\t\t\t\t<h3>Quick Contact</h2>\n\t\t\t\t\t\t\t\t\t\t<form action=\"contact.php\" class=\"contact-form d-flex flex-wrap mt-4\">\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" name=\"name\" placeholder=\"Name\" class=\"name mb-3\" required>\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" name=\"E-mail/Phone Number\" placeholder=\"E-mail/Phone Number\" class=\"mb-3\" required>\n\t\t\t\t\t\t\t\t\t\t\t<textarea placeholder=\"Message\" style=\"height: 150px;\" required></textarea>\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"pix_btn btn-click text-center mt-5\">\n\t\t\t\t\t\t\t\t\t\t\t\t<button type=\"submit\" href=\"#\" class=\"btn btn-pill btn-large btn-outline-light mr-3\" data-hover=\"click\"><span>Send Message</span> \n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon icon-paper-plane\"></i></button>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\t<!--col-md-6-->\t\t\n\n\t\t\t\t\t</div><!--contact-information-->\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</footer>\n\t\t\n\t</div><!---main-wrapper--->\n\n<script src=\"js/jquery-1.11.0.min.js\"></script> \n<script type=\"text/javascript\" src=\"bootstrap/js/bootstrap.min.js\"></script>\n<script type=\"text/javascript\" src=\"js/plugins.js\"></script>\n<script type=\"text/javascript\" src=\"js/script.js\"></script>\n\n</body>\n</html>",
+			"<!DOCTYPE html>\n<html>\n<head>\n\t<title>Christina - Free HTML CSS Photographer Portfolio Template</title>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"format-detection\" content=\"telephone=no\">\n    <meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n    <meta name=\"author\" content=\"\">\n    <meta name=\"keywords\" content=\"\">\n    <meta name=\"description\" content=\"\">\n\n\t<link rel=\"stylesheet\" type=\"text/css\" href=\"bootstrap/css/bootstrap.min.css\"/>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"fonts/icomoon/icomoon.css\">\n\n</head>\n<body class=\"bg-black\">\n\n\t<div class=\"nav nav-overlay\">\n\t\t<div class=\"nav__content\">\n\t\t\t<ul class=\"nav__list\">\n\t\t\t\t<li class=\"nav__list-item active-nav\"><a href=\"index.html\" class=\"hover-target\">Home</a></li>\n\t\t\t\t<li class=\"nav__list-item\"><a href=\"onepage.html\" class=\"hover-target\">Portfolio</a></li>\n\t\t\t\t<li class=\"nav__list-item\"><a href=\"styles.html\" class=\"hover-target\">Styles</a></li>\n\t\t\t\t<li class=\"nav__list-item\"><a href=\"blog.html\" class=\"hover-target\">Blog</a></li>\n\t\t\t\t<li class=\"nav__list-item\"><a href=\"single-post.html\" class=\"hover-target\">Single Post</a></li>\n\t\t\t\t<li class=\"nav__list-item\"><a href=\"contact.html\" class=\"hover-target\">Contact</a></li>\n\t\t\t</ul>\n\t\t</div>\n\t</div>\n\n\t<header id=\"header\">\n\t\t<div id=\"header-wrap\">\n\t\t\t<nav id=\"navbar\">\n\t\t\t\t<div class=\"main-logo\">\n\t\t\t\t\t<a href=\"index.html\">Christina.</a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"action-menu\">\n\t\t\t\t  <input id=\"menu-toggle\" type=\"checkbox\" />\n\t\t\t\t\t<label class=\"menu-btn\" for=\"menu-toggle\">\n\t\t\t\t\t<span></span>\n\t\t\t\t   </label>\n\t\t\t\t</div><!--action-menu-->\n\t\t\t</nav>\n\t\t</div><!--header-wrap-->\n\t</header>",
+			"<body>\n\n    <div class=\"preloader-wrapper\">\n      <div class=\"preloader\">\n      </div>\n    </div>\n<li class=\"menu-item has-sub\">\n                        <a href=\"#\" class=\"item-anchor\" data-effect=\"Pages\">Pages</a>\n                        <ul class=\"submenu\">\n                          <li>\n                            <a href=\"about.html\">About Us</a>\n                          </li>\n                          <li>\n                            <a href=\"shop.html\">Shop</a>\n                          </li>\n                          <li>\n                            <a href=\"single-product.html\">Single Product</a>\n                          </li>\n                          <li>\n                            <a href=\"blog.html\">Blog</a>\n                          </li>\n                          <li>\n                            <a href=\"single-post.html\">Single Post</a>\n                          </li>\n                          <li>\n                            <a href=\"styles.html\">Styles</a>\n                          </li>\n                          <li>\n                            <a href=\"contact.html\">Contact</a>\n                          </li>\n                          <li>\n                            <a href=\"thank-you.html\">Thank You</a>\n                          </li>\n                        </ul>\n                      </li>",
+			"<body>\n\n    <div class=\"preloader-wrapper\">\n      <div class=\"preloader\">\n      </div>\n    </div>\n",
+			"<li class=\"menu-item has-sub\">\n                      <a href=\"#\" class=\"text-uppercase item-anchor\" data-effect=\"Pages\">Pages</a>\n                      <ul class=\"submenu\">\n                        <li>\n                          <a href=\"about.html\" class=\"text-uppercase\">About Us</a>\n                        </li>\n                        <li>\n                          <a href=\"shop.html\" class=\"text-uppercase\">Shop</a>\n                        </li>\n                        <li>\n                          <a href=\"single-product.html\" class=\"text-uppercase\">Single Product</a>\n                        </li>\n                        <li>\n                          <a href=\"blog.html\" class=\"text-uppercase\">Blog</a>\n                        </li>\n                        <li>\n                          <a href=\"single-post.html\" class=\"text-uppercase\">Single Post</a>\n                        </li>\n                        <li>\n                          <a href=\"styles.html\" class=\"text-uppercase\">Styles</a>\n                        </li>\n                        <li>\n                          <a href=\"contact.html\" class=\"text-uppercase\">Contact</a>\n                        </li>\n                        <li>\n                          <a href=\"thank-you.html\" class=\"text-uppercase\">Thank You</a>\n                        </li>\n                      </ul>\n                    </li>",
+			"<a href=\"https://templatesjungle.com/\" target=\"_blank\">TemplatesJungle</a>",
+			"about.html",
+			"fade-up",
+			"<p>© 2023 All rights reserved. Design by <a href=\"https://templatesjungle.com/\">TemplatesJungle</a>.</p>",
+			"<footer id=\"footer\" class=\"padding-large\" data-aos=\"fade-up\">\n\t<div class=\"container\">\n\t\t<div class=\"row\">\n\n\t\t\t<div class=\"col-md-4 col-sm-6\">\n\t\t\t\t<div class=\"company-brand\">\n\t\t\t\t\t<img src=\"images/main-logo.png\" alt=\"logo\" class=\"footer-logo\">\n\t\t\t\t\t<p>Feugiat hac porttitor sem dictum velit, elementum odio. Sed ipsum quis nec eget facilisis quis nibh ut bibendum.</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\n\t\t\t<div class=\"col-md-2 col-sm-6\">\n\t\t\t\t<h5>Quick Links</h5>\n\t\t\t\t<ul class=\"menu-list\">\n\t\t\t\t\t<li class=\"menu-item\">\n\t\t\t\t\t\t<a href=\"#\">Home</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"menu-item\">\n\t\t\t\t\t\t<a href=\"about-us.html\">About</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"menu-item\">\n\t\t\t\t\t\t<a href=\"styles.html\">Styles</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"menu-item\">\n\t\t\t\t\t\t<a href=\"blog.html\">Blog</a>\n\t\t\t\t\t</li>\t\t\t\t\t\t\t\t\n\t\t\t\t</ul>\n\t\t\t</div>\n\n\t\t\t<div class=\"col-md-3 col-sm-6\">\n\t\t\t\t<h5>Services</h5>\n\t\t\t\t<ul class=\"menu-list\">\n\t\t\t\t\t<li class=\"menu-item\">\n\t\t\t\t\t\t<a href=\"#\">Residential</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"menu-item\">\n\t\t\t\t\t\t<a href=\"#\">Commercial & hospitality</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"menu-item\">\n\t\t\t\t\t\t<a href=\"#\">Multifamily</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"menu-item\">\n\t\t\t\t\t\t<a href=\"#\">All Services</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\n\t\t\t<div class=\"col-md-3 col-sm-6\">\n\t\t\t\t<h5>Get in Touch</h5>\n\t\t\t\t<ul>\n\t\t\t\t\t<li><a href=\"#\" class=\"email\">info@yourcompany.com</a></li>\n\t\t\t\t\t<li>15Th Street Avenue, New York, USA</li>\n\t\t\t\t\t<li>011-554-8798-6556</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</footer>\n\n<div id=\"footer-bottom\" class=\"padding-small\">\n\t<div class=\"container\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"col-md-12\">\n\n\t\t\t\t<div class=\"row\">\n\t\t\t\t\n\t\t\t\t\t<div class=\"col-md-6\">\n\t\t\t\t\t\t<div class=\"copyright\">\n\t\t\t\t\t\t\t<p>© 2023 <a href=\"https://templatesjungle.com/\">TemplatesJungle</a>. All rights reserved.</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"col-md-6\">\n\t\t\t\t\t\t<div class=\"social-links\">\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"#\"><i class=\"icon icon-facebook\"></i></a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"#\"><i class=\"icon icon-twitter\"></i></a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"#\"><i class=\"icon icon-youtube-play\"></i></a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"#\"><i class=\"icon icon-behance-square\"></i></a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\n\t\t\t\t</div>\n\n\t\t\t</div>\n\t\t</div>\t\n\t</div>\n</div>\n\n<script src=\"js/jquery-1.11.0.min.js\"></script>\n<script src=\"js/plugins.js\"></script>\n<script src=\"js/slideNav.min.js\"></script>\n<script src=\"js/script.js\"></script>\t\n\n</body>\n</html>\t",
+			"<footer id=\"footer\" class=\"padding-large\">\n      <div class=\"container\">\n        <div class=\"footer-content d-flex flex-wrap justify-content-between\">\n          <div class=\"col-md-4 col-sm-6\">\n            <div class=\"footer-menu\">\n              <ul class=\"d-flex list-unstyled\">\n                <li>\n                  <a href=\"#\">Home</a>\n                </li>\n                <li>\n                  <a href=\"#\">Privacy Policy</a>\n                </li>\n                <li>\n                  <a href=\"#\">Terms</a>\n                </li>\n              </ul>\n            </div>\n          </div>\n          <div class=\"col-md-4 col-sm-6\">\n            <div class=\"footer-logo align-center\">\n              <img src=\"images/main-logo.png\" alt=\"logo\">\n            </div>\n          </div>\n          <div class=\"col-md-4 col-sm-12\">\n            <div class=\"social-links align-right\">\n              <ul class=\"d-flex list-unstyled\">\n                <li>\n                  <a href=\"#\">\n                    <i class=\"icon icon-facebook\"></i>\n                  </a>\n                </li>\n                <li>\n                  <a href=\"#\">\n                    <i class=\"icon icon-twitter\"></i>\n                  </a>\n                </li>\n                <li>\n                  <a href=\"#\">\n                    <i class=\"icon icon-youtube\"></i>\n                  </a>\n                </li>\n              </ul>\n            </div>\n          </div>\n        </div>\n      </div>\n    </footer>",
+			"menu-list list-unstyled d-flex justify-content-end",
+			"<p>Free HTML Template by <a href=\"http://www.templatesjungle.com/\">TemplatesJungle</a>",
+			"ps_options",
+			"http://prosolutions.com.np",
+			"info@templatesjungle.com",
+			"<a href=\"#\" class=\"pr-10\">hello@templatesjungle.com</a>\n\t\t\t\t\t\t\t\t<a href=\"#\">info@templatesjungle.com</a>",
+			"iconbox-content",
+			"iconbox",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"slick/slick/slick-theme.css\"/>\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin><link href=\"https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Roboto:wght@400;700&display=swap\" rel=\"stylesheet\">",
+			"<p class=\"mb-0\">© Copyright 2022 FitPhysique. Free Template by <a href=\"https://templatesjungle.com\" target=\"_blank\">TemplatesJungle</a>.</p>",
+			"<title>FitPhysique - Free Fitness/Gym HTML CSS Template by TemplatesJungle.com</title>",
+			"<title>Hunger Hunter - Free Restaurant HTML CSS Template</title>",
+			"<p>© 2022 - Free HTML Template By <a href=\"https://templatesjungle.com/\" target=\"_blank\">TemplatesJungle</a></p>",
+			"<script src=\"js/jquery-1.11.0.min.js\"></script>\n    <script type=\"text/javascript\" src=\"js/plugins.js\"></script>",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">",
+			"<nav class=\"secondary-nav border-top border-bottom\">\n          <div class=\"container\">\n            <div class=\"row\">\n              <div class=\"top-menu d-flex flex-wrap justify-content-between\">\n                  \n                  <ul class=\"left-block list-unstyled d-flex flex-wrap\">\n                    <li class=\"menu-item text-uppercase\">Call Us: +5555-00-444</li>\n                    <li class=\"menu-item text-uppercase\">Mail Us: <a href=\"#\">hello@templatesjungle.com</a>\n                    </li>\n                  </ul>\n\n                  <ul class=\"right-block d-flex flex-wrap list-unstyled justify-content-evenly\">\n                    <li class=\"menu-item\">\n                      <form class=\"searchbar\">\n                        <input type=\"text\" name=\"search\" placeholder=\"Search Here..\">\n                        <i class=\"icon icon-search\"></i>\n                      </form>\n                    </li>\n                    <li class=\"menu-item dropdown-submenu\">\n                      <a href=\"#\" class=\"currency-item\">USD</a>\n                      <i class=\"icon icon-caret-down\"></i>\n                      <ul class=\"dropdown-currency list-unstyled bg-light\">\n                        <li>\n                          <a href=\"#\">USD</a>\n                        </li>\n                        <li>\n                          <a href=\"#\">EURO</a>\n                        </li>\n                        <li>\n                          <a href=\"#\">Yuan</a>\n                        </li>\n                      </ul>\n                    </li>\n                    <li class=\"menu-item\">\n                      <a href=\"#\">\n                        <i class=\"icon icon-heart\"></i>WISH LIST </a>\n                    </li>\n                    <li class=\"menu-item\">\n                      <a href=\"#\">\n                        <i class=\"icon icon-user\"></i>MY ACCOUNT </a>\n                    </li>\n                    <li class=\"menu-item\">\n                      <a href=\"#\">\n                        <i class=\"icon icon-shopping-cart\"></i>My Cart </a>\n                    </li>\n                  </ul>\n\n              </div>\n            </div>\n          </div>\n        </nav>",
+			"<a href=\"thank-you.html\" class=\"text-uppercase\">Thank You</a>",
+			"<div class=\"main-menu stellarnav desktop light\">\n                    <ul class=\"menu-list list-unstyled\">\n                      <li class=\"menu-item\">\n                        <a href=\"index.html\" class=\"text-uppercase item-anchor\">Home</a>\n                      </li>\n                      <li class=\"menu-item\">\n                        <a href=\"about.html\" class=\"text-uppercase item-anchor\">About</a>\n                      </li>\n                      <li class=\"menu-item\">\n                        <a href=\"shop.html\" class=\"text-uppercase item-anchor\">Shop</a>\n                      </li>\n                      <li class=\"menu-item has-sub\">\n                        <a href=\"#\" class=\"text-uppercase item-anchor\" data-effect=\"Pages\">Pages</a>\n                        <ul class=\"submenu\">\n                          <li>\n                            <a href=\"about.html\" class=\"text-uppercase\">About</a>\n                          </li>\n                          <li>\n                            <a href=\"shop.html\" class=\"text-uppercase\">Shop</a>\n                          </li>\n                          <li>\n                            <a href=\"blog.html\" class=\"text-uppercase\">Blog</a>\n                          </li>\n                          <li>\n                            <a href=\"styles.html\" class=\"text-uppercase\">Styles</a>\n                          </li>\n                          <li>\n                            <a href=\"single-product.html\" class=\"text-uppercase\">Single Product</a>\n                          </li>\n                          <li>\n                            <a href=\"single-post.html\" class=\"text-uppercase\">Single Post</a>\n                          </li>\n                          <li>\n                            <a href=\"styles.html\" class=\"text-uppercase\">Thank You</a>\n                          </li>\n                          <li>\n                            <a href=\"contact.html\" class=\"text-uppercase\">Contact</a>\n                          </li>\n                        </ul>\n                      </li>\n                      <li class=\"menu-item\">\n                        <a href=\"blog.html\" class=\"text-uppercase item-anchor\">Blog</a>\n                      </li>\n                      <li class=\"menu-item\">\n                        <a href=\"contact.html\" class=\"text-uppercase item-anchor\">Contact</a>\n                      </li>\n                    </ul>\n                  </div>",
+			"href=\"https://templatesjungle.com/\"",
+			"hello@templatesjungle.com",
+			"&copy; 2022 All Rights Reserved. A Free HTML Template by <a href=\"templatesjungle.com\" target=\"_blank\">TemplatesJungle</a>",
+			"<title>GemStone - Free HTML CSS Template by TemplatesJungle.com</title>",
+			"hello@templatesjungle.com",
+			"&copy; 2022 All Rights Reserved. A Free HTML Template by <a href=\"templatesjungle.com\" target=\"_blank\">TemplatesJungle</a>",
+			"UIJunkie",
+			"uijunkie",
+			"UIJunkie",
+			"Paramhansa",
+			"paramhansa",
+			"<ul>\n\t\t\t\t\t\t\t\t        <li class=\"active\"><a href=\"index.html\">Home</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"about.html\">About</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"styles.html\">Styles</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"blog.html\">Blog</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"single-post.html\">Post Single</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"shop.html\">Our Store</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"single-product.html\">Product Single</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"contact.html\">Contact</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"thank-you.html\">Thank You</a></li>\n\t\t\t\t\t\t\t\t     </ul>",
+			"<header id=\"header\" class=\"stellarnav\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"row\">\n\n\t\t\t\t<div class=\"col-md-2\">\n\t\t\t\t\t<div class=\"main-logo\">\n\t\t\t\t\t\t<a href=\"index.html\"><img src=\"images/main-logo.png\" alt=\"logo\"></a>\n\t\t\t\t\t</div>\n\n\t\t\t\t</div>\n\n\t\t\t\t<div class=\"col-md-10\">\n\t\t\t\t\t\n\t\t\t\t\t<nav id=\"navbar\">\n\t\t\t\t\t\t<div class=\"main-menu\">\n\t\t\t\t\t\t\t<ul class=\"menu-list\">\n\t\t\t\t\t\t\t\t<li class=\"menu-item active\"><a href=\"#home\" data-effect=\"Home\">Home</a></li>\n\t\t\t\t\t\t\t\t<li class=\"menu-item\"><a href=\"#about\" class=\"nav-link\" data-effect=\"About\">About</a></li>\n\t\t\t\t\t\t\t\t<li class=\"menu-item has-sub\">\n\t\t\t\t\t\t\t\t\t<a href=\"#pages\" class=\"nav-link\" data-effect=\"Pages\">Pages</a>\n\n\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t        <li class=\"active\"><a href=\"index.html\">Home</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"about.html\">About</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"styles.html\">Styles</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"blog.html\">Blog</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"single-post.html\">Post Single</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"shop.html\">Our Store</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"single-product.html\">Product Single</a></li>\n\t\t\t\t\t\t\t\t        <li><a href=\"contact.html\">Contact</a></li>\n\t\t\t\t\t\t\t\t     </ul>\n\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"menu-item\"><a href=\"#popular-books\" class=\"nav-link\" data-effect=\"Shop\">Shop</a></li>\n\t\t\t\t\t\t\t\t<li class=\"menu-item\"><a href=\"#latest-blog\" class=\"nav-link\" data-effect=\"Articles\">Articles</a></li>\n\t\t\t\t\t\t\t\t<li class=\"menu-item\"><a href=\"#contact\" class=\"nav-link\" data-effect=\"Contact\">Contact</a></li>\n\t\t\t\t\t\t\t</ul>\n\n\t\t\t\t\t\t\t<div class=\"hamburger\">\n\t\t\t\t                <span class=\"bar\"></span>\n\t\t\t\t                <span class=\"bar\"></span>\n\t\t\t\t                <span class=\"bar\"></span>\n\t\t\t\t            </div>\n\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</nav>\n\n\t\t\t\t</div>\n\n\t\t\t</div>\n\t\t</div>\n\t</header>",
+			"<p>© 2022 All rights reserved. Free HTML Template by <a href=\"https://www.templatesjungle.com/\" target=\"_blank\">TemplatesJungle</a></p>",
+			"<a href=\"#\" class=\"logo\">Chris</a>",
+			"<a href=\"index.html\">Chris</a>",
+			"<a href=\"index.html\">Creatify</a>",
+			"<p>Free HTML by <a href=\"https://templatesjungle.com\" target=\"_blank\">TemplatesJungle</a></p>",
+			"'goodies'",
+			"goodies_",
+			"goodies",
+			"Goodies",
+			"<div id=\"overlayer\"></div>\n<span class=\"loader\">\n  <span class=\"loader-inner\"></span>\n</span>\n\n<div id=\"overlayer\">\n\t<span class=\"loader\">\n\t  <span class=\"loader-inner\"></span>\n\t</span>\n</div>",
+			"<div id=\"overlayer\"></div>\n<span class=\"loader\">\n  <span class=\"loader-inner\"></span>\n</span>\n\n<nav class=\"nav-sidebar\">",
+			"<p class=\"align-center\">Template by <a href=\"https://www.templatesjungle.com/\" target=\"_blank\">TemplatesJungle</a></p>",
+			"<h2>$1</h2>",
+			"<h2>$1",
+			"<h5>Gallery</h5>\n\t\t\t\t\t<div class=\"widget-gallery\">",
+			"TemplatesJungle",
+			"ultrasstore",
+			"UltrasStore",
+			"Ultras Store",
+			"fashionmag",
+			"FashionMag",
+			"archifacts",
+			"Kirki",
+			"",
+			"<div class=\"navbar-collapse collapse\" id=\"slide-navbar-collapse\">\n\t\t\t\t\t<ul class=\"navbar-nav list-inline text-uppercase\">\n\t\t\t\t\t\t<li class=\"nav-item text-hover active\"><a href=\"index.html\" class=\"nav-link\" data-effect=\"Home\">Home</a></li>\n\t\t\t\t\t\t<li class=\"nav-item text-hover\"><a href=\"about.html\" class=\"nav-link\" data-effect=\"About Us\">About us</a></li>\n\t\t\t\t\t\t<li class=\"nav-item text-hover\"><a href=\"blog.html\" class=\"nav-link\" data-effect=\"Blogs\">Blog</a></li>\n\t\t\t\t\t\t<li class=\"nav-item text-hover\"><a href=\"contact.html\" class=\"nav-link\" data-effect=\"Contact\">Contact us</a></li>\n\n\t\t\t\t\t\t<li class=\"nav-item dropdown\">\n\t\t\t\t\t\t\t<a href=\"#\" data-bs-toggle=\"dropdown\" aria-expanded=\"false\" class=\"nav-link dropdown-toggle\">Pages</a>\n\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t<li><a href=\"about.html\" class=\"dropdown-item\">About us</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"blog.html\" class=\"dropdown-item\">Blog</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"single-post.html\" class=\"dropdown-item\">Single Post</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"contact.html\" class=\"dropdown-item\">Contact us</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"shop.html\" class=\"dropdown-item\">Shop</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"single-product.html\" class=\"dropdown-item\">Single Product</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\n\t\t\t\t\t</ul>\n\t\t\t\t</div>",
+			"<script src=\"js/jquery-1.11.0.min.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/bootstrap.bundle.min.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/slick.min.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/jquery.magnific-popup.min.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/script.js\"></script>",
+			"Bakery is a free HTML CSS Template by Templates Jungle specially crafted for Bakeries.",
+			"Sunday",
+			"<script type=\"text/javascript\" src=\"js/bootstrap.min.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/script.js\"></script>",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/bootstrap-grid.min.css\"/>\n\t<script type=\"text/javascript\" src=\"js/script.js\"></script>",
+			"<script type=\"text/javascript\" src=\"bootstrap/js/bootstrap.min.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/script.js\"></script>",
+			"<script type=\"text/javascript\" src=\"bootstrap/js/bootstrap.min.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/jquery-1.11.0.min.js\"></script>\n\t<script type=\"text/javascript\" src=\"slick/slick/slick.min.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/script.js\"></script>\n\t<script type=\"text/javascript\" src=\"fancybox/jquery.magnific-popup.min.js\"></script>",
+			"footer-bottom",
+			"",
+			"© 2021 Bakery HTML Template by <a href=\"https://templatesjungle.com/\" target=\"_blank\">Templates Jungle</a>",
+			"Freebies",
+			"freebie",
+			"Freebie",
+			"mokshastudio.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Fashion Blogger HTML Template.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sty",
+				"styles.html"
+			],
+			[
+				"main",
+				"css\\main.css"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"bl",
+				"blog.html"
+			],
+			[
+				"blog",
+				"blog.html"
+			],
+			[
+				"scr",
+				"js\\script.js"
+			],
+			[
+				"st",
+				"styles.html"
+			],
+			[
+				"ven",
+				"css\\vendor.css"
+			],
+			[
+				"pl",
+				"js\\plugins.js"
+			],
+			[
+				"sc",
+				"js\\script.js"
+			],
+			[
+				"re",
+				"templates\\template-user-registration.php"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"para",
+				"js\\parallax.js"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"sing",
+				"single-package.php"
+			],
+			[
+				"app",
+				"assets\\dist\\assets\\css\\app.css"
+			],
+			[
+				"sho",
+				"inc\\shortcodes.php"
+			],
+			[
+				"cat",
+				"category.php"
+			],
+			[
+				"si",
+				"sidebar.php"
+			],
+			[
+				"singl",
+				"single-package.php"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"s",
+				"style.css"
+			],
+			[
+				"con",
+				"contact.html"
+			],
+			[
+				"plu",
+				"js\\plugins.js"
+			],
+			[
+				"js",
+				"js\\script.js"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"vend",
+				"css\\vendor.css"
+			],
+			[
+				"ve",
+				"css\\vendor.css"
+			],
+			[
+				"met",
+				"inc\\metaboxes.php"
+			],
+			[
+				"submi",
+				"templates\\template-submit-form.php"
+			],
+			[
+				"tem",
+				"templates\\template-payment.php"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"ta",
+				"taxonomy.php"
+			],
+			[
+				"tax",
+				"taxonomy.php"
+			],
+			[
+				"ki",
+				"inc\\kirki.php"
+			],
+			[
+				"meta",
+				"inc\\metaboxes.php"
+			],
+			[
+				"ab",
+				"about.html"
+			],
+			[
+				"v",
+				"css\\vendor.css"
+			],
+			[
+				"hea",
+				"template-parts\\header-style-1.php"
+			],
+			[
+				"bootstrap.min",
+				"assets\\bootstrap\\css\\bootstrap.min.css"
+			],
+			[
+				"bootstrap.m",
+				"assets\\bootstrap\\js\\bootstrap.min.js"
+			],
+			[
+				"hc",
+				"assets\\js\\hc-sticky.js"
+			],
+			[
+				"plugin",
+				"js\\plugins.js"
+			],
+			[
+				"shor",
+				"inc\\shortcodes.php"
+			],
+			[
+				"pac",
+				"archive-package.php"
+			],
+			[
+				"vc",
+				"inc\\vc.php"
+			],
+			[
+				"40",
+				"404.php"
+			],
+			[
+				"sear",
+				"searchform.php"
+			],
+			[
+				"package",
+				"template-parts\\package-list-item.php"
+			],
+			[
+				"content",
+				"template-parts\\content-package.php"
+			],
+			[
+				"short",
+				"inc\\shortcodes.php"
+			],
+			[
+				"des",
+				"taxonomy-destination-nepal.php"
+			],
+			[
+				"f",
+				"functions.php"
+			],
+			[
+				"se",
+				"search.php"
+			],
+			[
+				"cont",
+				"template-parts\\content-list.php"
+			],
+			[
+				"ar",
+				"archive-package.php"
+			],
+			[
+				"test",
+				"archive-testimonial.php"
+			],
+			[
+				"de",
+				"taxonomy-destination.php"
+			],
+			[
+				"hear",
+				"header.php"
+			],
+			[
+				"single",
+				"single-package.php"
+			],
+			[
+				"sin",
+				"single-package.php"
+			],
+			[
+				"kir",
+				"inc\\kirki.php"
+			],
+			[
+				"wi",
+				"inc\\widgets.php"
+			],
+			[
+				"hom",
+				"homepage.php"
+			],
+			[
+				"search",
+				"searchform.php"
+			],
+			[
+				"conten",
+				"template-parts\\content.php"
+			],
+			[
+				"post",
+				"inc\\post_types.php"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"kirki",
+				"inc\\kirki.php"
+			],
+			[
+				"vendo",
+				"css\\vendor.css"
+			],
+			[
+				"side",
+				"page-sidebar.php"
+			],
+			[
+				"arc",
+				"archive-package.php"
+			],
+			[
+				"heade",
+				"header.php"
+			],
+			[
+				"member",
+				"archive-member.php"
+			],
+			[
+				"veno",
+				"css\\vendor.css"
+			],
+			[
+				"nepal",
+				"taxonomy-destination-nepal.php"
+			],
+			[
+				"nepa",
+				"taxonomy-destination-nepal.php"
+			],
+			[
+				"package-li",
+				"template-parts\\package-list-item.php"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"plugi",
+				"js\\plugins.js"
+			],
+			[
+				"vc_",
+				"vc_templates\\vc_btn.php"
+			],
+			[
+				"vendor",
+				"css\\vendor.css"
+			],
+			[
+				"plugins",
+				"js\\plugins.js"
+			],
+			[
+				"contente",
+				"content-package.php"
+			],
+			[
+				"row",
+				"vc_templates\\vc_row.php"
+			],
+			[
+				"tgma",
+				"inc\\tgma.php"
+			],
+			[
+				"venod",
+				"css\\vendor.css"
+			],
+			[
+				"p",
+				"C:\\Users\\hp\\Downloads\\drive-download-20220524T103128Z-001\\Interiors\\js\\plugins.js"
+			],
+			[
+				"abou",
+				"C:\\Users\\hp\\Downloads\\drive-download-20220524T103128Z-001\\Interiors\\about-us.html"
+			],
+			[
+				"me",
+				"inc\\metaboxes.php"
+			],
+			[
+				"sh",
+				"shop.html"
+			],
+			[
+				"about",
+				"about.html"
+			],
+			[
+				"blo",
+				"blog.html"
+			],
+			[
+				"pro",
+				"single-product.html"
+			],
+			[
+				"styles",
+				"styles.html"
+			],
+			[
+				"package-sear",
+				"package-search\\package-search-functions.php"
+			],
+			[
+				"taxo",
+				"taxonomy.php"
+			],
+			[
+				"conte",
+				"content-package.php"
+			],
+			[
+				"package-list",
+				"template-parts\\package-list-item.php"
+			],
+			[
+				"down",
+				"taxonomy-download_category.php"
+			],
+			[
+				"pack",
+				"package-search\\css\\package-search.css"
+			],
+			[
+				"h",
+				"header.php"
+			],
+			[
+				"plug",
+				"js\\plugins.js"
+			],
+			[
+				"o",
+				"inc\\ocdi.php"
+			],
+			[
+				"rs",
+				"royalslider\\skins\\universal\\rs-universal.css"
+			],
+			[
+				"royalslider",
+				"royalslider\\royalslider.css"
+			],
+			[
+				"royal",
+				"royalslider\\jquery.royalslider.min.js"
+			],
+			[
+				"slick-",
+				"slick\\slick\\slick-theme.css"
+			],
+			[
+				"slick.m",
+				"slick\\slick\\slick.min.js"
+			],
+			[
+				"ico",
+				"css\\icomoon.css"
+			],
+			[
+				"wid",
+				"inc\\widgets.php"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"ver",
+				"css\\vendor.css"
+			],
+			[
+				"shop",
+				"shop.html"
+			],
+			[
+				"abo",
+				"about.html"
+			],
+			[
+				"slide",
+				"js\\slideNav.min.js"
+			],
+			[
+				"slid",
+				"js\\slideNav.min.js"
+			],
+			[
+				"styl",
+				"style.css"
+			],
+			[
+				"sig",
+				"single-post.html"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"b",
+				"bootstrap\\css\\bootstrap.css"
+			],
+			[
+				"boo",
+				"bootstrap\\css\\bootstrap.css"
+			],
+			[
+				"norm",
+				"css\\normalize.css"
+			],
+			[
+				"pos",
+				"single-post.html"
+			],
+			[
+				"",
+				"style.css"
+			],
+			[
+				"edd",
+				"edd.php"
+			],
+			[
+				"ed",
+				"edd.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\PROJECTS\\TemplatesJungle.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
