@@ -8,7 +8,7 @@
             <div class="navbar navbar_1">
                 <div class="logo">myMeritStar<span>Alert</span></div>
                 <ul class="menu">
-                    <li><a href="mainpage.jsp">Home</a></li>
+                    <li><a href="index.html">Home</a></li>
                     <li><a href="login.jsp">Login</a></li>
                     <li><a href="contact.html">Contact</a></li>
                 </ul>

@@ -31,7 +31,7 @@
         <!-- Adding a table at the center of the page -->
 
         <div class="container">
-            <div class="text-end">
+            <div class="text-end mb-1">
                 <a class="btn btn-primary" href="<%= request.getContextPath()%>/users/admin/create-user.jsp">Create User</a>
             </div>
             <table class="table table-striped"> 
@@ -56,7 +56,7 @@
                         ResultSet rs = ps.executeQuery(sql);
                         while (rs.next()) {
                     %>
-                    <tr>
+                    <tr class="align-middle">
                         <td><%= rs.getString(1)%></td>
                         <td><%= rs.getString(2)%></td>
                         <td><%= rs.getString(3)%></td>
@@ -64,8 +64,8 @@
                         <td><%= rs.getString(6)%></td>
                         <td><%= rs.getString(7)%></td>
                         <td><%= rs.getString(8)%></td>
-                        <td><a href="<%= request.getContextPath()%>/users/admin/edit-user.jsp?id=<%= rs.getString(1)%>">Edit</a></td>
-                        <td><a href="<%= request.getContextPath()%>/controller/delete-user.jsp?id=<%= rs.getString(1)%>" onclick="return confirm('Confirm to delete this club?');">Delete</a></td>
+                        <td><a href="<%= request.getContextPath()%>/users/admin/edit-user.jsp?id=<%= rs.getString(1)%>" class="btn btn-sm btn-primary">Edit</a></td>
+                        <td><a href="<%= request.getContextPath()%>/controller/delete-user.jsp?id=<%= rs.getString(1)%>" onclick="return confirm('Confirm to delete this club?');" class="btn btn-sm btn-danger">Delete</a></td>
                     </tr>
                     <%
                         }

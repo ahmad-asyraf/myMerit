@@ -29,7 +29,7 @@
         <!-- Adding a table at the center of the page -->
 
         <div class="container">
-            <div class="text-end">
+            <div class="text-end mb-1">
                 <a class="btn btn-primary" href="<%= request.getContextPath()%>/users/admin/create-club.jsp">Create Club</a>
             </div>
             <table class="table table-striped"> 
@@ -52,15 +52,15 @@
                         ResultSet rs = ps.executeQuery();
                         while (rs.next()) {
                     %>
-                    <tr>
+                    <tr class="align-middle">
                         <td><%= rs.getString(1)%></td>
                         <td><%=rs.getString(2)%></td>
                         <td><%=rs.getString(3)%></td>
                         <td><%=rs.getString(4)%></td>
                         <td><%=rs.getString(5)%></td>
-                        <td><a href="<%= request.getContextPath()%>/users/admin/edit-club.jsp?id=<%=rs.getString(1)%>">Edit</a></td>
+                        <td><a href="<%= request.getContextPath()%>/users/admin/edit-club.jsp?id=<%=rs.getString(1)%>" class="btn btn-sm btn-primary">Edit</a></td>
                         <td>
-                            <a href="<%= request.getContextPath()%>/controller/delete-club.jsp?id=<%=rs.getString(1)%>" onclick="return confirm('Confirm to delete this club?');">Delete</a>
+                            <a href="<%= request.getContextPath()%>/controller/delete-club.jsp?id=<%=rs.getString(1)%>" onclick="return confirm('Confirm to delete this club?');" class="btn btn-sm btn-danger">Delete</a>
                         </td>
                     </tr>
                     <%

@@ -55,8 +55,8 @@
                         <td><%=rs.getString(3)%></td>
                         <td><%=rs.getString(4)%></td>
                         <td><%=rs.getString(5)%></td>
-                        <td><a href="<%%>/controller/accept.jsp" onclick="return confirm('Accept this permission?');">Accept</a></td>
-                        <td><a href="<%%>/controller/reject.jsp" onclick="return confirm('Reject this permission?');">Reject</a></td>
+                        <td><a href="<%%>/controller/accept.jsp" onclick="return confirm('Accept this permission?');" class="btn btn-sm btn-primary">Accept</a></td>
+                        <td><a href="<%%>/controller/reject.jsp" onclick="return confirm('Reject this permission?');" class="btn btn-sm btn-danger">Reject</a></td>
                     </tr>
                     <%
                         }

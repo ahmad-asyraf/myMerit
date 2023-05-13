@@ -22,7 +22,7 @@
             <%@include file="../../layout/admin-navbar.jsp" %>
         </div>
 
-        <form action="<%= request.getContextPath()%>/register-activity.jsp" method="POST">
+        <form action="<%= request.getContextPath()%>/controller/create-activity.jsp" method="POST">
             <div class="wrapper">
                 <div class="registration_form">
                     <div class="title">

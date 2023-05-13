@@ -30,7 +30,7 @@
         <!-- Adding a table at the center of the page -->
 
         <div class="container">
-            <div class="text-end">
+            <div class="text-end mb-1">
                 <a class="btn btn-primary" href="<%= request.getContextPath()%>/users/admin/create-activity.jsp">Create Activity</a>
             </div>
             <table class="table table-striped"> 
@@ -61,8 +61,8 @@
                         <td><%=rs.getString(4)%></td>
                         <td class="text-nowrap"><%=rs.getString(5)%></td>
                         <td class="text-nowrap"><%=rs.getString(6)%></td>
-                        <td><a href="<%= request.getContextPath()%>/users/admin/edit-activity.jsp">Edit</a></td>
-                        <td><a href="<%= request.getContextPath()%>/controller/delete-activity.jsp" onclick="return confirm('Confirm to delete this activity?');">Delete</a></td>
+                        <td><a href="<%= request.getContextPath()%>/users/admin/edit-activity.jsp?id=<%=rs.getString(1)%>" class="btn btn-sm btn-primary">Edit</a></td>
+                        <td><a href="<%= request.getContextPath()%>/controller/delete-activity.jsp?id=<%=rs.getString(1)%>" onclick="return confirm('Confirm to delete this activity?');" class="btn btn-sm btn-danger">Delete</a></td>
                     </tr>
                     <%
                         }

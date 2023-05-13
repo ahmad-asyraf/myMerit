@@ -8,7 +8,7 @@
             <div class="navbar navbar_1">
                 <div class="logo">myMeritStar<span>Alert</span></div>
                 <ul class="menu">
-                    <li><a href="mainpage.jsp" >Home</a></li>
+                    <li><a href="index.html" >Home</a></li>
                     <li><a href="login.jsp">Login</a></li>
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
@@ -22,30 +22,30 @@
                 </div>
 
                 <div class="form_wrap">
-                    <form action="registerProcess.jsp" method="POST" source="custom" style="padding: 10px;">
+                    <form action="<%= request.getContextPath()%>/controller/user-register.jsp" method="POST" source="custom" style="padding: 10px;">
                         <div class="input_wrap">
                             <label for="fullname">Fullname</label>
-                            <input type="text" id="fullname" name="fullname">
+                            <input type="text" id="fullname" name="fullname" required="">
                         </div>
 
                         <div class="input_wrap">
                             <label for="matric">Matric Number</label>
-                            <input type="text" id="matric" name="matric">
+                            <input type="text" id="matric" name="matric" required="">
                         </div>
 
                         <div class="input_wrap">
                             <label for="username">Username</label>
-                            <input type="text" id="username" name="username">
+                            <input type="text" id="username" name="username" required="">
                         </div>
 
                         <div class="input_wrap">
                             <label for="password">Password</label>
-                            <input type="password" id="password" name="password">
+                            <input type="password" id="password" name="password" required="">
                         </div>
 
                         <div class="input_wrap">
                             <label for="email">Email</label>
-                            <input type="email" id="email" name="email">
+                            <input type="email" id="email" name="email" required="">
                         </div>
 
                         <div class="input_wrap">
@@ -55,6 +55,12 @@
                                     <label class="radio_wrap">
                                         <input type="radio" name="position" value="student" class="input_radio" checked>
                                         <span>Student</span>
+                                    </label>
+                                </li>
+                                <li>
+                                    <label class="radio_wrap">
+                                        <input type="radio" name="position" value="member" class="input_radio">
+                                        <span>Member</span>
                                     </label>
                                 </li>
                             </ul>

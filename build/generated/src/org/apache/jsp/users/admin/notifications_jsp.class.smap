@@ -1,0 +1,32 @@
+SMAP
+notifications_jsp.java
+JSP
+*S JSP
+*F
++ 0 notifications.jsp
+users/admin/notifications.jsp
++ 1 header.jsp
+users/admin/../../layout/header.jsp
++ 2 admin-navbar.jsp
+users/admin/../../layout/admin-navbar.jsp
+*L
+1,2:52
+4,8:55
+11,6:63
+5#1,13:69
+18,3:82,3
+21,10:91
+31:101,3
+32:104
+16#0,5:104
+5#2,5:109
+10,7:114,3
+17,3:135
+20#0,26:137
+46,6:164
+51,2:170
+53,7:172,3
+60,2:193
+62,3:196
+64,7:199
+*E

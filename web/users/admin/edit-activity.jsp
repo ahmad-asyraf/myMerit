@@ -8,7 +8,7 @@
     if (username == null) {
         response.sendRedirect(request.getContextPath() + "/login.jsp");
     }
-    
+
     String id = request.getParameter("id");
 
     DBConnection con = new DBConnection();
@@ -43,7 +43,7 @@
             <%@include file="../../layout/admin-navbar.jsp" %>
         </div>	
 
-        <form action="<%= request.getContextPath()%>/controller/edit-club.jsp" method="POST">
+        <form action="<%= request.getContextPath()%>/controller/edit-activity.jsp" method="POST">
             <div class="wrapper">
                 <div class="registration_form">
                     <div class="title">
@@ -52,44 +52,55 @@
                     <div class="form_wrap">
                         <div class="input-wrap mb-3">
                             <label>Activity Name</label>
-                            <input type="text" name="name" value="<%=name%>" required />
+                            <input type="text" name="activityName" value="<%=name%>" required />
                         </div>
 
                         <div class="input-wrap mb-3">
                             <label>Club Name</label>
-                            <input type="text" name="club" value="<%=club%>" required />
+                            <div class="column">
+                                <div class="select-box">
+                                    <select name="clubName" class="form-select">
+                                        <%
+                                            String sql1 = "SELECT club FROM admin";
+                                            PreparedStatement ps1 = con.getConnection().prepareStatement(sql1);
+                                            ResultSet rs1 = ps1.executeQuery();
+                                            while (rs1.next()) {
+                                        %>
+                                        <option value="<%=rs1.getString("club")%>"><%=rs1.getString("club")%></option>
+                                    <!--<input type="text" name="club" value="<%=rs1.getString("club")%>">-->
+                                        <%
+                                            }
+                                        %>
+                                    </select>
+                                </div>
+                            </div>
                         </div>
 
                         <div class="input-wrap mb-3">
                             <label>Description</label>
-                            <input type="text" name="des" value="<%=des%>" required />
+                            <textarea name="desc" class="form-control" rows="3" required><%=des%></textarea>
                         </div>
 
                         <div class="row mb-3">
                             <div class="col">
                                 <%
                                     Calendar calendar = Calendar.getInstance();
-                                    SimpleDateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
+                                    SimpleDateFormat dateFormat = new SimpleDateFormat("dd-MM-yyyy");
                                     String tarikh = dateFormat.format(calendar.getTime());
                                 %>
                                 <input type="hidden" value="<%=tarikh%>" id="temtDate">
                                 <label>Start Date</label>
                                 <input type="hidden" id="updateDate">
-                                <input type="date" id="start" name="datestart" class="form-control" placeholder="Enter birth date" required />
+                                <input type="date" id="start" name="startDate" value="<%=datestart%>" class="form-control" placeholder="Enter birth date" required />
                             </div>
                             <div class="col">
                                 <label>End Date</label>
                                 <input type="hidden" id="updateDateEnd">
-                                <input type="date" id="end" name="dateend" class="form-control" placeholder="Enter birth date" required />
+                                <input type="date" id="end" name="endDate" value="<%=dateend%>" class="form-control" placeholder="Enter birth date" required />
                             </div>
                         </div>
 
-                        <div class="input-wrap mb-3">
-                            <label for="time-input">Enter a time:</label>
-                            <input type="time" name="time" id="time-input" class="form-control">
-                        </div>
-
-                        <input type="hidden" name="id" value="<%=id%>">
+                        <input type="hidden" name="activityID" value="<%=id%>">
                         <button type="submit" class="submit_btn">Submit</button>
                     </div>
                 </div>
