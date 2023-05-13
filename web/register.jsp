@@ -63,6 +63,18 @@
                                         <span>Member</span>
                                     </label>
                                 </li>
+                                <li>
+                                    <label class="radio_wrap">
+                                        <input type="radio" name="position" value="staff" class="input_radio">
+                                        <span>Staff</span>
+                                    </label>
+                                </li>
+                                <li>
+                                    <label class="radio_wrap">
+                                        <input type="radio" name="position" value="admin" class="input_radio">
+                                        <span>Admin</span>
+                                    </label>
+                                </li>
                             </ul>
                         </div>
 
