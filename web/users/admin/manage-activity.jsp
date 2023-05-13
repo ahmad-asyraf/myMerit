@@ -2,6 +2,7 @@
 <%@page import="com.mvc.util.DBConnection"%>
 <%
     String username = (String) session.getAttribute("username");
+    String position = (String) session.getAttribute("position");
     if (username == null) {
         response.sendRedirect(request.getContextPath() + "/login.jsp");
     }
@@ -34,16 +35,16 @@
             </div>
             <table class="table table-striped"> 
                 <!-- Table Heading -->
-                <thead> 
+                <thead class="table-primary"> 
                     <tr> 
-                        <th>Id.</th> 
+                        <th>ID</th> 
                         <th>Name</th> 
                         <th>Club</th>
                         <th>Description</th> 
                         <th>Date Start </th>
                         <th>Date End</th>
                         <th>Edit</th>
-                        <th>Delete<th>
+                        <th>Delete</th>
                     </tr> 
                 </thead> 
                 <tbody>

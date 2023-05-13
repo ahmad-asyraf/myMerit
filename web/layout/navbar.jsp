@@ -7,6 +7,7 @@
 <div class="navbar navbar_1">
     <div class="logo">myMeritStar<span>Alert</span></div>
     <ul class="menu">
+        <li>Logged in as | <%= position%></li>
         <li><a href="<%=request.getContextPath()%>/users/student/main-page.jsp" >Main Page</a></li>
         <li><a href="<%=request.getContextPath()%>/users/student/view-profile.jsp"><%= username%></a></li>
         <li><a href="<%=request.getContextPath()%>/users/student/view-merit.jsp">Merit</a></li>

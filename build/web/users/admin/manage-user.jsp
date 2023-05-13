@@ -3,6 +3,7 @@
 <%@page errorPage="../../controller/ErrorPage.jsp" %>
 <%
     String username = (String) session.getAttribute("username");
+    String position = (String) session.getAttribute("position");
     if (username == null) {
         response.sendRedirect(request.getContextPath() + "/login.jsp");
     }
@@ -35,7 +36,7 @@
             </div>
             <table class="table table-striped"> 
                 <!-- Table Heading -->
-                <thead> 
+                <thead class="table-primary"> 
                     <tr> 
                         <th>ID</th> 
                         <th>Name</th> 

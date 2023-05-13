@@ -3,6 +3,12 @@
 <%@page import="java.util.Calendar"%>
 <%@page import="com.mvc.util.DBConnection"%>
 <%
+    String username = (String) session.getAttribute("username");
+    String position = (String) session.getAttribute("position");
+    if (username == null) {
+        response.sendRedirect(request.getContextPath() + "/login.jsp");
+    }
+    
     String id = request.getParameter("id");
 
     DBConnection con = new DBConnection();

@@ -3,6 +3,7 @@
 <%@page import="java.sql.*"%>
 <%
     String username = (String) session.getAttribute("username");
+    String position = (String) session.getAttribute("position");
     if (username == null) {
         response.sendRedirect(request.getContextPath() + "/login.jsp");
     }

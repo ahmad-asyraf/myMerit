@@ -20,19 +20,23 @@
         if (rs.getString("password").equals(password) && rs.getString("username").equals(username) && position.equals("admin")) {
             //response.sendRedirect("adminClub.jsp");
             session.setAttribute("username", username);
+            session.setAttribute("position", position);
             request.getRequestDispatcher(contextPath + "/../users/admin/main-page.jsp").forward(request, response);
         } else if (rs.getString("password").equals(password) && rs.getString("username").equals(username) && position.equals("staff")) {
             //response.sendRedirect("");
             session.setAttribute("username", username);
+            session.setAttribute("position", position);
             request.getRequestDispatcher(contextPath + "/../users/staff/main-page.jsp").forward(request, response);
         } else if (rs.getString("password").equals(password) && rs.getString("username").equals(username) && position.equals("member")) {
             //response.sendRedirect("activitypage.jsp?username=" + username + "");
             session.setAttribute("username", username);
+            session.setAttribute("position", position);
             request.getRequestDispatcher(contextPath + "/../users/member/main-page.jsp").forward(request, response);
         } else if (rs.getString("password").equals(password) && rs.getString("username").equals(username) && position.equals("student")) {
             //out.println("Welcome " + username);
             //response.sendRedirect("studentPage.jsp?username=" + username + "");
             session.setAttribute("username", username);
+            session.setAttribute("position", position);
             request.getRequestDispatcher(contextPath + "/../users/student/main-page.jsp").forward(request, response);
         }
     }

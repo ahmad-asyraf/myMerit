@@ -7,6 +7,7 @@
 <div class="navbar navbar_1">
     <div class="logo">myMeritStar<span>Alert</span></div>
     <ul class="menu">
+        <li>Logged in as | <%= position%></li>
         <li><a href="<%= request.getContextPath()%>/users/admin/main-page.jsp">Manage Club</a></li>
         <!--<li><a href="<%= request.getContextPath()%>/admin/create-user.jsp">Register User</a></li>-->
         <li><a href="<%= request.getContextPath()%>/users/admin/manage-user.jsp">Manage User</a></li>
